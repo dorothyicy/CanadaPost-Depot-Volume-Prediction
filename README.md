@@ -16,3 +16,6 @@ At the end of the project, the project team successfully achieved pre-defined go
 3. We then compared model accuracy with weather data and without weather data respectively; we were convinced that weather data did improve prediction accuracy before we included weather data into our final prediction model.  
 4. The final machine learning model developed is able to make parcel volume prediction for the next fourteen days for a particular depot with local forecasted weather conditions. 
 5. The 14-day predicted volume can be imported to Microsoft Power BI, and generate a 14-day volume prediction chart for easy use by end users. 
+
+# Note
+'depot.xlsx' has not been uploaded to this repository due to confidentiality reasons.
